@@ -1,0 +1,506 @@
+@media screen and (max-width: 768px) {
+  .rs-pd-tp {
+    margin-top: 100px;
+  }
+  .rs-pd-half {
+    margin-top: 50px;
+  }
+  .rs-ds-b {
+    display: none;
+  }
+}
+/* 05 responsive styles */
+@media screen and (min-width: 769px) {
+  .md-mb40 {
+    margin-bottom: 40px;
+  }
+}
+@media screen and (max-width: 991px) and (min-width: 768px) {
+  .pad100,
+  .padtb {
+    padding: 40px 0;
+  }
+
+  .xs-mb30 {
+    margin-bottom: 0;
+  }
+
+  .sm-pad-b {
+    padding-bottom: 40px;
+  }
+
+  .mt60,
+  .mt65 {
+    margin-top: 30px;
+  }
+
+  .sm-mb30 {
+    margin-bottom: 30px;
+  }
+
+  .sm-mb40 {
+    margin-bottom: 40px;
+  }
+
+  .parallax {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 50% 0;
+    background-size: cover;
+  }
+
+  .make-investment-area .future-content {
+    margin-bottom: 60px;
+  }
+
+  .counter-up-area .single-counter .count-content span {
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .counter-up-area .single-counter .count-content p {
+    font-size: 17px;
+  }
+
+  .financial-contact-area .btn-1 a {
+    padding: 10px 22px;
+    line-height: 28px;
+  }
+
+  #accordion {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .pad-top120 {
+    padding-top: 30px;
+  }
+
+  .pad100,
+  .padtb,
+  .pad80 {
+    padding: 30px 0;
+  }
+
+  .pad-top100 {
+    padding: 30px 0 0;
+  }
+
+  .pad-t90 {
+    padding-top: 30px;
+  }
+
+  .pad-t120 {
+    padding-top: 30px;
+  }
+
+  .mt60 {
+    margin-top: 10px;
+  }
+
+  .mt65 {
+    margin-top: 15px;
+  }
+
+  .xs-mb30 {
+    margin-bottom: 30px !important;
+  }
+
+  .xs-mb40 {
+    margin-bottom: 40px;
+  }
+
+  .padtb {
+    padding: 30px 0;
+  }
+
+  .mt50 {
+    margin-top: 0;
+  }
+
+  .mt40 {
+    margin-top: 0;
+  }
+
+  .mtb100 {
+    margin: 30px 0;
+  }
+
+  .pad-tb {
+    padding: 200px 0;
+  }
+
+  .xs-pt-0 {
+    padding-top: 0;
+  }
+
+  .xs-mt30 {
+    margin-top: 30px;
+  }
+
+  br {
+    display: none;
+  }
+
+  .xs-mt50 {
+    margin-top: 50px;
+  }
+
+  .mob-overlay {
+    position: relative;
+  }
+  .mob-overlay:after {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    content: "";
+    left: 0;
+    top: 0;
+  }
+
+  .brand-area .xs-mb30 {
+    margin-bottom: 0;
+  }
+
+  #chart #bars li span {
+    bottom: 4em;
+  }
+
+  #chart #bars {
+    height: 260px;
+    width: 330px;
+  }
+  #chart #bars li .bar {
+    width: 35px;
+    bottom: 90px;
+  }
+
+  .getin-tech-area .action-content {
+    position: relative;
+    z-index: 1;
+    padding: 0px 15px 30px 0px;
+  }
+  .getin-tech-area .action-content h1 {
+    margin-bottom: 30px;
+    font-size: 35px;
+  }
+  .getin-tech-area .action-content h2 {
+    font-size: 25px;
+  }
+  .getin-tech-area .contact-form {
+    padding: 0 0 0 0;
+    position: relative;
+    z-index: 1;
+  }
+  .getin-tech-area .contact-form h2 {
+    color: #fff;
+  }
+
+  .financial-strength-area .graph-content h2 {
+    font-size: 23px;
+    line-height: 23px;
+  }
+
+  .counter-up-area .single-counter .count-content span {
+    line-height: 110px;
+  }
+
+  .make-investment-area .bg-box-img {
+    padding: 50px 30px 0px 0px;
+  }
+  .make-investment-area .future-content .media-future {
+    margin-bottom: 20px;
+  }
+
+  .make-investment-area .bg-box-img .bg-content-box {
+    margin: 0;
+    padding: 20px;
+  }
+
+  .make-investment-area .bg-box-img {
+    background: url();
+  }
+
+  .call-to-action-area .action-content h2 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 20px;
+  }
+
+  .make-investment-area .bg-box-img .bg-content-box h3 {
+    line-height: 24px;
+  }
+
+  .footer-area .footer-widget .footer-title {
+    margin-top: 30px;
+  }
+
+  .make-investment-area .future-content {
+    margin-top: 40px;
+  }
+
+  .make-investment-area .future-content .media-future a h3 {
+    font-size: 18px;
+  }
+
+  .section-title .title-text h2 {
+    font-size: 20px;
+  }
+
+  .financial-strength-area .graph-content {
+    padding: 30px 50px 80px 0;
+  }
+
+  .footer-area .footer-widget .widget-content .social-icon ul li {
+    padding: 4px 16px;
+  }
+
+  .navbar-brand {
+    margin-left: 20px;
+  }
+
+  .header .navbar-nav .dropdown-menu {
+    width: 100%;
+    margin: 0;
+  }
+  .header .navbar-nav .nav-link {
+    line-height: 45px;
+  }
+  .header .navbar {
+    padding: 10px 0;
+  }
+  .header li .mega-menu {
+    width: 100% !important;
+    padding: 0px !important;
+  }
+  .header li .mega-menu.dropdown-menu .submenu ul li a {
+    color: #2b3032;
+    padding: 8px 5px !important;
+  }
+
+  .header-top-area {
+    text-align: center;
+  }
+
+  .why-choose-us-area .skill-section {
+    padding: 30px 0;
+  }
+
+  .financial-contact-area .planning-content {
+    margin-top: 0;
+  }
+  .financial-contact-area .planning-content h3 {
+    font-size: 28px;
+    line-height: 45px;
+  }
+  .financial-contact-area .btn-1.float-right {
+    float: left !important;
+    margin: 10px 0;
+  }
+
+  .financial-planning-area .inner.br {
+    border: none;
+  }
+  .financial-planning-area .bt {
+    border: none;
+  }
+  .financial-planning-area .section-title .title-text {
+    margin: 7px 0 0px;
+  }
+
+  .financial-value-area .nav {
+    margin-top: 50px;
+  }
+
+  .call-to-action-two-area .btn-1 {
+    margin: 30px 0 0 0;
+  }
+
+  .home-page-3.financial-activities-area .inner-content {
+    margin-bottom: 30px;
+  }
+
+  .excellent-performance-area .outer-box .full-width-bg {
+    width: 100%;
+    padding: 30px 40px 30px 40px;
+  }
+  .excellent-performance-area .outer-box .full-width-bg .outer-content {
+    margin-bottom: 30px;
+  }
+  .excellent-performance-area .outer-box .services-column {
+    position: inherit;
+    width: 100%;
+  }
+  .excellent-performance-area .outer-box .services-column .column-inner {
+    padding: 30px 40px 30px 40px;
+  }
+  .excellent-performance-area
+    .outer-box
+    .services-column
+    .column-inner
+    .single-services {
+    margin-bottom: 30px;
+  }
+
+  .helping-grow-area .tab-area .custom-tabs li.nav-item a {
+    font-size: 14px;
+    padding: 10px 4px;
+  }
+
+  .testimonial-area-three .title {
+    margin-bottom: 40px;
+  }
+  .testimonial-area-three .title h2 {
+    font-size: 25px;
+  }
+  .testimonial-area-three .title.pd50 {
+    padding-left: 0;
+    margin: 30px 0 40px;
+  }
+  .testimonial-area-three .title.pd50 h2:after {
+    left: 0;
+  }
+  .testimonial-area-three #accordion {
+    padding-left: 30px;
+  }
+
+  .about-us-area .about-content .section-title h2 {
+    font-size: 25px;
+  }
+
+  .financial-story-area .outer-box .full-width-bg {
+    width: 100%;
+    float: none;
+  }
+  .financial-story-area .outer-box .about-column {
+    position: inherit;
+    width: 100%;
+    padding: 30px 30px;
+  }
+
+  .financial-contact-area .planning-content h3 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .financial-contact-area .btn-1 a {
+    padding: 0 25px;
+    line-height: 40px;
+  }
+
+  .how-we-work-area .section-padding {
+    padding: 15px;
+  }
+  .how-we-work-area .bg-left .boxed-content {
+    margin-left: 195px;
+  }
+  .how-we-work-area .inner-content .btn-1 {
+    margin-bottom: 30px;
+  }
+
+  .financial-planning-area .inner {
+    padding: 20px 20px;
+  }
+
+  .team-single-area .information {
+    margin-top: 30px;
+  }
+
+  .sidebar-page .left-sidebar .sidebar-widget .sidebar-title h3 {
+    margin: 30px 0 30px;
+  }
+  .sidebar-page .content-side .inner-box h3 {
+    font-size: 21px;
+  }
+  .sidebar-page .content-side .inner-box .inner-img {
+    margin: 40px 0 40px;
+  }
+  .sidebar-page .content-side .inner-box .title h2 {
+    margin: 30px 0 30px;
+  }
+  .sidebar-page .content-side .inner-box .inner-content h4 {
+    line-height: 25px;
+    margin: 30px 0;
+  }
+  .sidebar-page .content-side .inner-box .bar-img {
+    margin: 40px 0 40px;
+  }
+
+  .about-us-area .about-content .breadcrumb li {
+    font-size: 11px;
+    margin: 0 2px;
+  }
+
+  .news-single .content-side .blog-single .inner-box .lower-box h2 {
+    margin: 30px 0 20px;
+    font-size: 20px;
+  }
+  .news-single .content-side .blog-single .inner-box .lower-box a.borderd-btn {
+    margin-top: 30px;
+  }
+  .news-single
+    .content-side
+    .blog-single
+    .inner-box
+    .lower-box
+    .post-info
+    ul
+    li {
+    margin: 0 0;
+  }
+  .news-single .content-side .blog-single .inner-box .lower-box a.borderd-btn {
+    padding: 10px 20px;
+  }
+  .news-single .content-side {
+    margin-bottom: 30px;
+  }
+  .news-single .pagination {
+    margin-top: 30px;
+  }
+
+  .news .blog-box .blog-content .blog-title a {
+    font-size: 15px;
+  }
+
+  .right-sidebar .sidebar-widget .search-box {
+    margin-top: 30px;
+  }
+  .right-sidebar .sidebar-widget .sidebar-title h3 {
+    margin: 30px 0 30px;
+  }
+
+  .news-three-area .portfolio-nav ul li {
+    font-size: 17px;
+    padding: 10px 6px;
+  }
+
+  .news-three-area .portfolio-nav {
+    margin-bottom: 30px;
+  }
+  .news-three-area .blog-portfolio .portfolio-masonry-item {
+    margin: 0 0px;
+  }
+  .news-three-area .blog-portfolio .portfolio-masonry-item.img3 {
+    width: 100%;
+  }
+
+  .upcoming-planning-area .planning-content .section-title h2 {
+    font-size: 28px;
+  }
+
+  .pricing-table .single-pricing-table .pricing-amount h5 {
+    font-size: 27px;
+  }
+
+  .error-page-area .inner-content h2 {
+    font-size: 40px;
+  }
+
+  .call-to-action-area .action-content {
+    padding: 30px 15px 30px 0px;
+  }
+  .call-to-action-area .action-content h1.numb {
+    font-size: 30px;
+  }
+}
+/* 05 responsive styles */
