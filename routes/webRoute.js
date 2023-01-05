@@ -11,6 +11,9 @@ function initWebRoute(app) {
   app.get("/contact", (req, res) => {
     res.render("contact");
   });
+  app.get("/thankyou", (req, res) => {
+    res.render("thankyou");
+  });
 }
 
 module.exports = initWebRoute;

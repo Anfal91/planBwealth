@@ -2050,7 +2050,7 @@ a:focus {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(0, 219, 251, 0.5);
+  background: #00a07092;
   transform: scale(0);
   transition: all 0.4s ease 0s;
 }
